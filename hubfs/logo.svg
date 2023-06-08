@@ -1,0 +1,18 @@
+<svg class="logo-graphic" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 354.12 44.04">
+<defs>
+<style>
+.logo-path-orange { fill: #f15a29; }
+.logo-path-white { fill: #ffffff; }
+.logo-path-gray { fill: #1E2025; }
+</style>
+</defs>
+<title>Flux</title>
+<polygon class="logo-path-orange" points="295.76 10.7 295.76 1.2 260.91 1.2 260.91 9.72 284.05 9.72 260.91 29.66 260.91 39.97 295.75 39.97 295.75 31.45 271.72 31.45 295.76 10.7"></polygon>
+<path class="logo-path-orange" d="M94.86,12.66V32.85c0,7.06-4,10.61-10,10.61S75,39.91,75,32.85V12.66H66.44V32.85c0,12.25,7.82,19.3,18.45,19.31h0c10.64,0,18.45-7.06,18.45-19.31V12.66Z" transform="translate(-10.76 -11.46)"></path>
+<path class="logo-path-orange" d="M51.75,49.57l-4.59-4.73a20.51,20.51,0,1,0-6.65,5.38l5.12,5.28ZM19.39,32A11.87,11.87,0,1,1,31.25,43.82,11.88,11.88,0,0,1,19.39,32Z" transform="translate(-10.76 -11.46)"></path>
+<path class="logo-path-orange" d="M210,51.43l-10.4-13.87a13.17,13.17,0,0,0-6-24.9H174.76V51.43h8.52V39H190l9.3,12.42ZM183.28,21.18h10.31a4.65,4.65,0,1,1,0,9.31H183.28Z" transform="translate(-10.76 -11.46)"></path>
+<path class="logo-path-orange" d="M150.26,51.43h9.46L141.48,12.66h-7.92L115.34,51.43h9.46l3.72-8h18Zm-18.11-16,5.38-11.14,5.42,11.14Z" transform="translate(-10.76 -11.46)"></path>
+<polygon class="logo-path-orange" points="246.7 1.2 209.6 1.2 209.6 9.72 223.9 9.72 223.9 39.97 232.41 39.97 232.41 9.72 246.7 9.72 246.7 1.2"></polygon>
+<polygon class="logo-path-orange" points="354.13 1.2 342.94 1.2 331.13 15.07 319.31 1.2 308.13 1.2 326.87 23.23 326.87 39.97 335.39 39.97 335.39 23.22 354.13 1.2"></polygon>
+<image src="http://d2zruwytl6b6e6.cloudfront.net/static/images/logo-orange.png" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#"></image>
+</svg>

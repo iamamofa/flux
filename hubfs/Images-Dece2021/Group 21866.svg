@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="67" height="60.425" viewBox="0 0 67 60.425">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2093" data-name="Rectangle 2093" width="67" height="60.425" fill="#f15a29"/>
+    </clipPath>
+  </defs>
+  <g id="Group_21866" data-name="Group 21866" clip-path="url(#clip-path)">
+    <path id="Path_19786" data-name="Path 19786" d="M30.213,49.477H4.316A4.321,4.321,0,0,1,0,45.161V6.316A4.321,4.321,0,0,1,4.316,2H53.232a4.321,4.321,0,0,1,4.316,4.316V22.142H54.67V6.316a1.439,1.439,0,0,0-1.439-1.439H4.316A1.439,1.439,0,0,0,2.877,6.316V45.161A1.439,1.439,0,0,0,4.316,46.6h25.9Z" transform="translate(0 0.877)" fill="#f15a29"/>
+    <rect id="Rectangle_2087" data-name="Rectangle 2087" width="2.877" height="8.632" transform="translate(44.6)" fill="#f15a29"/>
+    <rect id="Rectangle_2088" data-name="Rectangle 2088" width="2.877" height="8.632" transform="translate(35.967)" fill="#f15a29"/>
+    <rect id="Rectangle_2089" data-name="Rectangle 2089" width="2.877" height="8.632" transform="translate(27.335)" fill="#f15a29"/>
+    <rect id="Rectangle_2090" data-name="Rectangle 2090" width="2.877" height="8.632" transform="translate(18.703)" fill="#f15a29"/>
+    <rect id="Rectangle_2091" data-name="Rectangle 2091" width="2.877" height="8.632" transform="translate(10.071)" fill="#f15a29"/>
+    <rect id="Rectangle_2092" data-name="Rectangle 2092" width="54.67" height="2.877" transform="translate(1.439 15.826)" fill="#f15a29"/>
+    <path id="Path_19787" data-name="Path 19787" d="M39.834,52.529A17.264,17.264,0,1,1,57.1,35.264,17.284,17.284,0,0,1,39.834,52.529m0-31.873A14.609,14.609,0,1,0,54.443,35.264,14.625,14.625,0,0,0,39.834,20.656" transform="translate(9.901 7.897)" fill="#f15a29"/>
+    <path id="Path_19788" data-name="Path 19788" d="M40.677,41.224l-7.029-7.029v-12.5H36.3V33.1l6.251,6.251Z" transform="translate(14.761 9.516)" fill="#f15a29"/>
+  </g>
+</svg>
